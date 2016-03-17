@@ -1,5 +1,5 @@
-
-m __future__ import division
+#!Encoding=utf-8
+from __future__ import division
 import copy
 import math
 import turtle
